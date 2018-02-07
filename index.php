@@ -2,7 +2,4 @@
 
 echo "Olá mundo!";
 
-
-
-
  ?>
